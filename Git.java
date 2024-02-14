@@ -4,6 +4,7 @@ public class Git {
         System.out.println("using stash command");
         System.out.println("hello");
         System.out.println("world");
-        System.out.println("mybranch");
+        System.out.println("java");
+        System.out.println("for merge");
     }
 }
