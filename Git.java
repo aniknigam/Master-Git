@@ -4,5 +4,10 @@ public class Git {
         System.out.println("using stash command");
         System.out.println("hello");
         System.out.println("world");
+
+        int a = 10;
+        int b = 20;
+        int sum = a + b;
+        System.out.println(sum);
     }
 }
