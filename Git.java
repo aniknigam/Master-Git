@@ -19,3 +19,8 @@ class English {
         return "hello my name is aniket nigam and i am learning git";
     }
 }
+class CompterScience {
+    public String getMessage() {
+        return "hello my name is aniket nigam and i am learning git and this is computer science branch";
+    }
+}
