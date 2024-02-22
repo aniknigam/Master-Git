@@ -7,18 +7,22 @@ public class Git {
 
     }
 }
+
 class Mathmatics {
     public int add(int a, int b) {
+        System.out.println("this is addition");
         return a + b;
     }
 
-public int subtract(int a, int b) {
+    public int subtract(int a, int b) {
+        System.out.println("this is substraction");
         return a - b;
     }
 }
 
 class English {
     public String getMessage() {
+        System.out.println("this is english");
         return "hello my name is aniket nigam and i am learning git";
     }
 }
@@ -29,4 +33,3 @@ class CompterScience {
         return "hello my name is aniket nigam and i am learning git and this is computer science branch";
     }
 }
-
