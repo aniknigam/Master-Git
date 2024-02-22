@@ -15,7 +15,6 @@ class Mathmatics {
     }
 
     public int subtract(int a, int b) {
-        System.out.println("this is substraction");
         return a - b;
     }
 }
