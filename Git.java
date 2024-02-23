@@ -19,7 +19,12 @@ class Mathmatics {
     }
 }
 
-
+class English {
+    public String getMessage() {
+        System.out.println("this is english");
+        return "hello my name is aniket nigam and i am learning git";
+    }
+}
 
 class CompterScience {
     public String getMessage() {
