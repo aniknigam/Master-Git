@@ -8,17 +8,17 @@ public class Git {
     }
 }
 
-class Mathmatics {
-    public int add(int a, int b) {
-        System.out.println("addition");
-        return a + b;
-    }
+// class Mathmatics {
+//     public int add(int a, int b) {
+//         System.out.println("addition");
+//         return a + b;
+//     }
 
-    public int subtract(int a, int b) {
-        System.out.println("subs");
-        return a - b;
-    }
-}
+//     public int subtract(int a, int b) {
+//         System.out.println("subs");
+//         return a - b;
+//     }
+// }
 
 class English {
     public String getMessage() {
