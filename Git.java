@@ -1,7 +1,7 @@
 public class Git {
     public static void main(String[] args) {
-        English eng = new English();
-        eng.getMessage();
+        English english = new English();
+        english.getMessage();
         CompterScience cs = new CompterScience();
         cs.getMessage();
 
@@ -10,19 +10,20 @@ public class Git {
 
 class Mathmatics {
     public int add(int a, int b) {
-        System.out.println("this is addition");
+        System.out.println("addition");
         return a + b;
     }
 
     public int subtract(int a, int b) {
+        System.out.println("subs");
         return a - b;
     }
 }
 
 class English {
     public String getMessage() {
-        System.out.println("this is english");
-        return "hello my name is aniket nigam and i am learning git";
+        System.out.println("this is  a english");
+        return "hello my name is aniket nigam,  and i am learning git";
     }
 }
 
