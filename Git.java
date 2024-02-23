@@ -25,7 +25,7 @@ class CompterScience {
     public String getMessage() {
         System.out.println("git learning");
         System.out.println("i am using get merge tool now ");
-        return "hello my name is aniketdssf nigam and i am learning git and this is computer science branch ";
+        return "hello my name is aniket nigam and i am learning git and this is computer science branch ";
     }
 }
 
